@@ -1,0 +1,65 @@
+[
+    {
+        "firstName": "Jody",
+        "lastName": "Kramer",
+        "email": "jody.kramer@acme.com",
+        "role": "Client Manager",
+        "location": "Tampa, FL"
+    },
+    {
+        "firstName": "Tracy",
+        "lastName": "Newman",
+        "email": "tracy.newman@acme.com",
+        "role": "Client Analyst",
+        "location": "Austin,TX"
+    },
+    {
+        "firstName": "Hildred",
+        "lastName": "Patrick",
+        "email": "hildred.patrick@acme.com",
+        "role": "Client Analyst",
+        "location": "Austin,TX"
+    },
+    {
+        "firstName": "Bailey",
+        "lastName": "Lott",
+        "email": "bailey.lott@acme.com",
+        "role": "Network Engineer",
+        "location": "Los Angeles, CA"
+    },
+    {
+        "firstName": "Jesse",
+        "lastName": "Austin",
+        "email": "jesse.austin@acme.com",
+        "role": "Network Engineer",
+        "location": "Tampa, FL"
+    },
+    {
+        "firstName": "Taylor",
+        "lastName": "Bright",
+        "email": "taylor.bright@acme.com",
+        "role": "Client Manager",
+        "location": "Chicago, IL"
+    },
+    {
+        "firstName": "Elliott",
+        "lastName": "Webster",
+        "email": "elliot.webster@acme.com",
+        "role": "Client Manager",
+        "location": "Austin, TX"
+    },
+    {
+        "firstName": "Quinn",
+        "lastName": "Robles",
+        "email": "quinn.robles@acme.com",
+        "role": "Network Engineer",
+        "location": "Chicago, IL"
+    },
+    {
+        "firstName": "Farren",
+        "lastName": "West",
+        "email": "farren.west@acme.com",
+        "role": "Network Engineer",
+        "location": "Chicago, IL"
+    }
+]

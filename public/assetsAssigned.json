@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Executive LAN",
+        "primaryIP": "IP",
+        "hostname": "Flare-VM",
+        "organization": "CSSExperience",
+        "system function": "Web Server"
+    },
+    {
+        "name": "Springboot Web",
+        "primaryIP": "IP",
+        "hostname": "SYM5523464",
+        "organization": "Atlanta",
+        "system function": "High Value Work"
+    },
+    {
+        "name": "Springboot Web",
+        "primaryIP": "IP",
+        "hostname": "ec2maz",
+        "organization": "Orlando",
+        "system function": "Web Server"
+    },
+    {
+        "name": "CriticalSystem",
+        "primaryIP": "IP",
+        "hostname": "ec2maz",
+        "organization": "Orlando",
+        "system function": "Web Server"
+    },
+    {
+        "name": "High Value Work",
+        "primaryIP": "IP",
+        "hostname": "WIN-SpringBoot",
+        "organization": "Atlanta",
+        "system function": "High Value Work"
+    },
+    {
+        "name": "CriticalSystem",
+        "primaryIP": "IP",
+        "hostname": "Flare-VM",
+        "organization": "Washington DC",
+        "system function": "Domain Controller"
+    },
+    {
+        "name": "Executive LAN",
+        "primaryIP": "IP",
+        "hostname": "SYM5523464",
+        "organization": "CSSExperience",
+        "system function": "Web Server"
+    },
+    {
+        "name": "Executive LAN",
+        "primaryIP": "IP",
+        "hostname": "WIN-SpringBoot",
+        "organization": "Atlanta",
+        "system function": "Domain Controller"
+    },
+    {
+        "name": "High Value Work",
+        "primaryIP": "IP",
+        "hostname": "SYM5523464",
+        "organization": "Orlando",
+        "system function": "ApplicationServer"
+    },
+    {
+        "name": "Springboot Web",
+        "primaryIP": "IP",
+        "hostname": "ec2maz",
+        "organization": "CSSExperience",
+        "system function": "Domain Controller"
+    }
+]

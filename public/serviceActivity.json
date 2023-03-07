@@ -1,0 +1,5 @@
+[
+ { "name": "Incidents", "value": 400, "fill": "#A100FF" },
+ { "name": "Requests", "value": 200, "fill": "#FF50A0" },
+ { "name": "Alarms", "value": 300, "fill": "#0041F0" }
+]

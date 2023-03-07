@@ -1,0 +1,18 @@
+[
+ {
+  "name": "Emergency",
+  "severity": 5
+ },
+ {
+  "name": "Critical",
+  "severity": 20
+ },
+ {
+  "name": "Warning",
+  "severity": 75
+ },
+ {
+  "name": "Informational",
+  "severity": 99
+ }
+]

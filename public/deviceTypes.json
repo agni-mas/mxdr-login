@@ -1,0 +1,22 @@
+[
+    {
+        "deviceType": "Application",
+        "used": 0
+    },
+    {
+        "deviceType": "Cloud AppSec",
+        "used": 0
+    },
+    {
+        "deviceType": "Endpoint",
+        "used": 0
+    },
+    {
+        "deviceType": "Firewall/UTM",
+        "used": 0
+    },
+    {
+        "deviceType": "Operating System",
+        "used": 0
+    }
+]

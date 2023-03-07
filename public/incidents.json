@@ -1,0 +1,16 @@
+[
+ {
+  "id": "abc123",
+  "description": "Critical",
+  "date": "xxx 00:00:00",
+  "followUp": "",
+  "severity": "Critical"
+ },
+ {
+  "id": "def456",
+  "description": "Informational",
+  "date": "xxx 00:00:00",
+  "followUp": "",
+  "severity": "Informational"
+ }
+]

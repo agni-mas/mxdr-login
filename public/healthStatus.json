@@ -1,0 +1,6 @@
+[
+ { "name": "Critical", "value": 60, "fill": "#FF50A0" },
+ { "name": "Warning", "value": 20, "fill": "#FFEB32" },
+ { "name": "Normal", "value": 10, "fill": "#64FF50" },
+ { "name": "Informational", "value": 10, "fill": "#00FFFF" }
+]

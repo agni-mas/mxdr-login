@@ -1,0 +1,46 @@
+[
+ {
+  "name": "Jan 2",
+  "Emergency": 75,
+  "Critical": 65,
+  "Warning": 53,
+  "Informational": 37
+ },
+ {
+  "Emergency": 65,
+  "Critical": 59,
+  "Warning": 45,
+  "Informational": 30
+ },
+ {
+  "Emergency": 73,
+  "Critical": 60,
+  "Warning": 54,
+  "Informational": 36
+ },
+ {
+  "Emergency": 68,
+  "Critical": 64,
+  "Warning": 49,
+  "Informational": 33
+ },
+ {
+  "Emergency": 64,
+  "Critical": 39,
+  "Warning": 24,
+  "Informational": 19
+ },
+ {
+  "Emergency": 72,
+  "Critical": 62,
+  "Warning": 52,
+  "Informational": 37
+ },
+ {
+  "name": "Jan 10",
+  "Emergency": 70,
+  "Critical": 64,
+  "Warning": 55,
+  "Informational": 35
+ }
+]
