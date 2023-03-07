@@ -1,0 +1,36 @@
+.admin-legends {
+    margin-top: -30px;
+}
+
+.legend--item {
+    margin-bottom: 8px;
+    display: inline-flex;
+    width: 100%;
+}
+
+.legend--item-name {
+    color: white;
+    font-size: 14px;
+    margin-top: 7px;
+    font-family: 'Graphik';
+}
+
+.legend--item__container {
+    margin-bottom: 10px;
+}
+
+.legend--item-number {
+    color: white;
+    font-size: 17px;
+    font-family: 'Graphik';
+}
+
+.pie-chart-label {
+    font-family: 'Graphik';
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.block {
+    display: block;
+}

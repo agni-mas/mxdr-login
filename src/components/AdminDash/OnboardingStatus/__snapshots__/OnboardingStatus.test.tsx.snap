@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <OnboardingStatus /> 1`] = `
+<DocumentFragment>
+  <section
+    class="item"
+  >
+    <h2
+      class="grid-item-title"
+    >
+      Onboarding Status
+    </h2>
+    <span
+      class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave css-1kcnzpi-MuiSkeleton-root"
+      style="height: 200px;"
+    />
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-wnpvqa-MuiButtonBase-root-MuiButton-root"
+      style="float: right; border-radius: 28px;"
+      tabindex="0"
+      type="button"
+    >
+      View Details
+      <span
+        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </button>
+  </section>
+</DocumentFragment>
+`;

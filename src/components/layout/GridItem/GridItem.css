@@ -1,0 +1,14 @@
+.item {
+    border: 1px solid gray;
+    padding: 30px;
+    border-radius: 5px;
+    height: min-content;
+}
+
+.grid-item-title {
+    font-weight: 200;
+    font-family: 'Graphik';
+    font-size: 22px;
+    color: white;
+    margin-bottom: 20px;
+}

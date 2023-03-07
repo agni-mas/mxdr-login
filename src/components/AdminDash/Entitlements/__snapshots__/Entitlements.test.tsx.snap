@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <Entitlements /> 1`] = `
+<DocumentFragment>
+  <section
+    class="item"
+  >
+    <h2
+      class="grid-item-title"
+    >
+      Entitlements (last 7 days)
+    </h2>
+    <div
+      class="MuiTableContainer-root css-rorn0c-MuiTableContainer-root"
+    >
+      <table
+        aria-label="entitlements table"
+        class="MuiTable-root border table css-rqglhn-MuiTable-root"
+      >
+        <thead
+          class="MuiTableHead-root css-15wwp11-MuiTableHead-root"
+        >
+          <tr
+            class="MuiTableRow-root MuiTableRow-head css-ubb257-MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-izw8y7-MuiTableCell-root"
+              scope="col"
+            >
+              Entitlement Search Code
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-yanhwr-MuiTableCell-root"
+              scope="col"
+            >
+              Description
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-yanhwr-MuiTableCell-root"
+              scope="col"
+            >
+              Start Date
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-yanhwr-MuiTableCell-root"
+              scope="col"
+            >
+              End Date
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-yanhwr-MuiTableCell-root"
+              scope="col"
+            >
+              Purchased
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-yanhwr-MuiTableCell-root"
+              scope="col"
+            >
+              Used
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-hsoe6c-MuiTableCell-root"
+              scope="col"
+            >
+              Available
+            </th>
+          </tr>
+        </thead>
+        <tbody
+          class="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+        />
+      </table>
+    </div>
+    <div
+      class="MuiTableContainer-root css-pdynqw-MuiTableContainer-root"
+    >
+      <table
+        aria-label="entitlements table"
+        class="MuiTable-root border table css-rqglhn-MuiTable-root"
+      >
+        <thead
+          class="MuiTableHead-root css-15wwp11-MuiTableHead-root"
+        >
+          <tr
+            class="MuiTableRow-root MuiTableRow-head css-2poe3x-MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-izw8y7-MuiTableCell-root"
+              scope="col"
+            >
+              Device Type
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-yanhwr-MuiTableCell-root"
+              scope="col"
+            >
+              Used
+            </th>
+          </tr>
+        </thead>
+        <tbody
+          class="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+        />
+      </table>
+    </div>
+  </section>
+</DocumentFragment>
+`;

@@ -1,0 +1,35 @@
+.bars {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    gap: 30px;
+    margin-top: 40px;
+}
+
+.bars>div {
+    width: 100%;
+}
+
+.bar-chart-title {
+    color: white;
+    font-family: 'Graphik';
+    font-weight: 300;
+    margin-left: 120px;
+}
+
+g.recharts-bar-rectangle:nth-child(1)>path:nth-child(1) {
+    fill: #ff6b23 !important
+}
+
+g.recharts-bar-rectangle:nth-child(2)>path:nth-child(1) {
+    fill: #ffe944 !important
+}
+
+g.recharts-bar-rectangle:nth-child(3)>path:nth-child(1) {
+    fill: #ff4394 !important
+}
+
+g.recharts-bar-rectangle:nth-child(4)>path:nth-child(1) {
+    fill: #00ffff !important
+}

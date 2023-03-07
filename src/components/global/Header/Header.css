@@ -1,0 +1,38 @@
+.header {
+    padding: 15px 20px;
+    border-bottom: 1px solid rgb(203, 203, 203);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    gap: 20px;
+}
+
+@media (max-width: 1304px) {
+    .header {
+        padding: 15px 10px;
+    }
+}
+
+
+.title {
+    color: white;
+    font-family: sans-serif;
+    font-weight: 200;
+    font-family: 'Graphik';
+    font-size: 20px;
+}
+
+.search-bar {
+    max-width: 350px;
+    width: 100%;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: 1px solid rgb(203, 203, 203);
+    background-color: transparent;
+    color: white;
+}
+
+.buttons {
+    display: flex;
+}

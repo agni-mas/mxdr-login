@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <AssetTrends /> 1`] = `
+<DocumentFragment>
+  <section
+    class="item"
+  >
+    <h2
+      class="grid-item-title"
+    >
+      Asset Trends
+    </h2>
+    <div
+      class="recharts-wrapper"
+      role="region"
+      style="position: relative; cursor: default; width: 210px; height: 210px;"
+    >
+      <svg
+        class="recharts-surface"
+        cx="50%"
+        cy="50%"
+        height="210"
+        version="1.1"
+        viewBox="0 0 210 210"
+        width="210"
+      >
+        <title />
+        <desc />
+        <defs>
+          <clippath
+            id="recharts1-clip"
+          >
+            <rect
+              height="200"
+              width="200"
+              x="5"
+              y="5"
+            />
+          </clippath>
+        </defs>
+      </svg>
+      <div
+        class="recharts-legend-wrapper"
+        style="position: absolute; width: 200px; height: auto; top: 50px; left: 250px;"
+      >
+        <ul
+          class="admin-legends"
+        />
+      </div>
+    </div>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-wnpvqa-MuiButtonBase-root-MuiButton-root"
+      style="float: right; border-radius: 28px;"
+      tabindex="0"
+      type="button"
+    >
+      View Details
+      <span
+        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </button>
+  </section>
+</DocumentFragment>
+`;

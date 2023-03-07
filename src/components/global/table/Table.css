@@ -1,0 +1,50 @@
+.table {
+    max-height: 500px;
+    overflow-y: scroll;
+}
+
+.top-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.row:hover {
+    background-color: #aa1efa;
+    cursor: pointer;
+}
+
+.row:hover>td {
+    color: white;
+}
+
+.bottom-control {
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.row-count {
+    text-align: center;
+    color: white;
+    width: 100%;
+    display: inline-block;
+    font-weight: 400;
+    font-family: 'Graphik';
+    font-size: 14px;
+}
+
+.incident {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.hover-state:hover {
+    background-color: black !important;
+    text-decoration: solid underline #7500C0 2px !important;
+    text-underline-offset: 10px;
+}

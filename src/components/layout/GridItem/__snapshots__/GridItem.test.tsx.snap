@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <GridItem/> 1`] = `
+<DocumentFragment>
+  <section
+    class="item"
+  >
+    <h2
+      class="grid-item-title"
+    >
+      Hello world
+    </h2>
+    <div>
+      Some Chart Component
+    </div>
+  </section>
+</DocumentFragment>
+`;

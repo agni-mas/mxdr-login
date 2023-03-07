@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <IncidentTrends/> 1`] = `
+<DocumentFragment>
+  <div>
+    <span
+      class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave css-1kcnzpi-MuiSkeleton-root"
+      style="height: 400px;"
+    />
+  </div>
+</DocumentFragment>
+`;

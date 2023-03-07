@@ -1,0 +1,21 @@
+.pie-charts {
+    margin: 40px 0;
+    font-family: sans-serif;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pie-legend {
+    position: absolute;
+    top: 30px;
+    width: max-content;
+    display: flex;
+    gap: 20px;
+    flex-direction: row;
+}
+
+.pie-legend--item {
+    margin-bottom: 8px;
+    list-style-type: none;
+}
